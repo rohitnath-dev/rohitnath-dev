@@ -1,61 +1,43 @@
-# 👋 Hey, I'm Rohit Nath
+# Rohit Nath
 
-**Aspiring AI/ML Engineer | Python Developer | Exploring Agentic AI**
-
-I enjoy working with data and building practical AI systems — turning raw, unstructured information into something meaningful using machine learning and NLP.  
-Most of my time goes into experimenting with models, cleaning data, and understanding how real-world AI systems behave beyond theory.
+AI/ML Practitioner | Working on turning raw data into usable systems
 
 ---
 
-## What I’m About
+## About
 
-- Building **practical AI tools and projects** that actually work  
-- Strong interest in **Machine Learning, NLP, and Agentic AI**
-- Learning by **experimenting, failing fast, and iterating**
-- Currently diving deeper into **Generative AI, ML pipelines, and data preprocessing automation**
+I work on understanding how data becomes something useful.
 
----
+My focus is not just on training models, but on the full process. This includes defining the problem clearly, cleaning and structuring messy data, and building systems that behave reliably outside ideal conditions.
 
-## Tech Stack
-
-### Languages
-- Python  
-- HTML, CSS, JavaScript (for AI-focused interfaces)
-
-### Core Skills
-- Machine Learning  
-- Natural Language Processing (NLP)  
-- Deep Learning (fundamentals)  
-- Data Preprocessing & Feature Engineering  
-- Agentic AI (exploratory)
-
-### Libraries & Tools
-- Pandas, NumPy  
-- Scikit-learn  
-- Streamlit  
-- Google Generative AI  
-- Git & GitHub  
+I spend most of my time learning by building and testing ideas. I experiment with different approaches, observe where they fail, and improve them step by step until they are stable and practical.
 
 ---
 
-## Let’s Connect
+## Focus Areas
 
-- Email: **rohit.devlab@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/rohit-nath-b9ab3a39a  
-- Twitter/X: https://x.com/rohit_nath4368  
-
-Always open to discussions, feedback, and collaborative learning.
-
----
-
-## Support My Work
-
-If you find my projects useful or want to support my learning journey, you can support me here:
-
-**UPI ID:** `8638476878@fam`
-
-Your support helps me keep learning, building, and sharing openly.
+- Natural Language Processing and working with text data  
+- Building machine learning systems that work beyond controlled environments  
+- Data preprocessing and feature design  
+- Understanding model limitations, not just performance  
 
 ---
 
-⭐ *Learning in public. Building in silence.*
+## Approach
+
+I try to learn from first principles. I focus on:
+- Why something works  
+- Where it breaks  
+- How it can be improved  
+
+---
+
+## Current Direction
+
+Going deeper into how complete AI systems are built, from raw input to usable output, and how different components interact in real scenarios.
+
+---
+
+## Connect
+
+If you are working on something meaningful in AI or machine learning, I am open to connecting and exchanging ideas.
